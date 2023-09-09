@@ -1,0 +1,1 @@
+The application is not complicated; the AI model has not been implemented yet. Instead, this application is running on a dummy model.
